@@ -1,6 +1,8 @@
-# UdemyMeanProject
+# Social Media MEAN Web App
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.2.3.
+
+Following a MEAN stack course by Maximilian Schwarzmüller
 
 ## Development server
 
